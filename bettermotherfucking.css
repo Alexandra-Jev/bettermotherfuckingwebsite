@@ -1,0 +1,39 @@
+.divider
+{
+	width: 65vw; 
+	background-color: grey; 
+	height: 1px; 
+}
+
+body
+{
+	background-color: #FFFFFF;
+	margin: 40px auto;
+	color: #303030;
+	max-width: 650px;
+	padding: 10px;
+	font-size: 18px; 
+	line-height: 1.6;
+}
+
+h1
+{
+	line-height: 1,5;
+	font-size: 34px; 
+}
+
+h2
+{
+	font-size: 30px;
+}
+
+h3
+{
+	font-size: 24px; 
+}
+
+p
+{
+	line-height: 1.8; 
+	font-size: 16px; 
+}
